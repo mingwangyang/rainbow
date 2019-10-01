@@ -1,0 +1,5 @@
+/MDK-ARM/rainbow/*.o
+/MDK-ARM/rainbow/*.d
+/rainbow.si4project/cache/parse/*.sisc
+/SYSTEM/json/*.rar
+/rainbow.si4project/*.xml
